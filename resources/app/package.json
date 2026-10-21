@@ -1,0 +1,7 @@
+{
+  "name": "sprite-animation-generator",
+  "version": "1.0.0",
+  "description": "Sprite Animation Generator - Create sprite sheet animations",
+  "main": "main.js",
+  "author": "Tasklet"
+}
